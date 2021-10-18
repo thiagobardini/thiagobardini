@@ -38,8 +38,8 @@
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagobardini&theme=vue&show_icons=true&hide_border=true" alt="thiagobardini's github stats" /></a> | <a href="https://github.com/thiagobardini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobardini&layout=compact&theme=buefy&hide_border=true" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagobardini&theme=buefy&show_icons=true&hide_border=true" alt="thiagobardini's github stats" /></a> | <a href="https://github.com/thiagobardini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobardini&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <!-- <details> -->
 
