@@ -3,9 +3,10 @@
 [![Website](https://img.shields.io/badge/thiagobardini.com-UP-brightgreen)](https://thiagobardini.com/)
 [![Linkedin Follow](https://img.shields.io/badge/thiagobardini-LinkedIn-blue)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-- 🌱 &nbsp; I’m currently finishing my bachelor in software development
-- 🥅 &nbsp; 2021 Goals: Gain work experience as a developer
-- ⚡ &nbsp; Fun fact: I love to surf and play guitar/bass
+🌱 &nbsp; I recently completed a software engineering Bootcamp at General Assembly <br/>
+🌱 &nbsp; I’m currently finishing my bachelor in software development <br/>
+🥅 &nbsp; 2021 Goals: Gain work experience as a developer<br/>
+⚡ &nbsp; Fun fact: I love to surf and play guitar/bass
 
 ### Connect with me:
 
