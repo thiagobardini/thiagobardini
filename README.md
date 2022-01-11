@@ -5,7 +5,7 @@
 
 🌱 &nbsp; I’m currently finishing my bachelor in software development<br/>
 :drum: &nbsp; I recently completed a software engineering Bootcamp at General Assembly <br/>
-🥅 &nbsp; 2021 Goals: Gain work experience as a developer<br/>
+🥅 &nbsp; 2022 Goals: Gain work experience as a developer<br/>
 ⚡ &nbsp; Fun fact: I love to surf and play guitar/bass
 
 ### Connect with me:
