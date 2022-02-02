@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/badge/thiagobardini.com-UP-brightgreen)](https://thiagobardini.com/)
 [![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
 
-🌱 &nbsp; I’m currently finishing my bachelor in software development<br/>
 :drum: &nbsp; I recently completed a software engineering Bootcamp at General Assembly <br/>
 🥅 &nbsp; 2022 Goals: Gain work experience as a developer<br/>
 ⚡ &nbsp; Fun fact: I love to surf and play guitar/bass
