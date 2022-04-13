@@ -5,7 +5,6 @@
 
 :drum: &nbsp; I recently completed a software engineering Bootcamp at General Assembly <br/>
 🥅 &nbsp; 2022 Goals: Gain work experience as a developer<br/>
-⚡ &nbsp; Fun fact: I love to surf and play guitar/bass
 
 ### Connect with me:
 
