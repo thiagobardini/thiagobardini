@@ -3,8 +3,11 @@
 [![Website](https://img.shields.io/badge/thiagobardini.com-UP-brightgreen)](https://thiagobardini.com/)
 [![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
 
-:drum: &nbsp; I recently completed a software engineering Bootcamp at General Assembly <br/>
-🥅 &nbsp; 2022 Goals: Gain work experience as a developer<br/>
+🥅 &nbsp; 2023 Goal: Gain MORE work experience as a developer<br/>
+🚅: &nbsp; I currently work for the OneLinkJS website localization technology platform as Solution Engineer (2022 - working in progress)  <br/>
+
+🥅 &nbsp; 2022 Goal: Gain work experience as a developer<br/>
+:drum: &nbsp; I recently completed a software engineering Bootcamp at General Assembly (2021)<br/>
 
 ### Connect with me:
 
