@@ -5,6 +5,7 @@
 
 🥅 &nbsp; 2023 Goal: Gain MORE work experience as a developer<br/>
 🚅: &nbsp; I currently work for the OneLinkJS website localization technology platform as Solution Engineer (2022 - working in progress)  <br/>
+🚅: &nbsp; Collaborating as a Frontend Developer at Code for Boston (2022 - working in progress)  <br/>
 
 🥅 &nbsp; 2022 Goal: Gain work experience as a developer<br/>
 :drum: &nbsp; I completed a software engineering Bootcamp at General Assembly (2021)<br/>
