@@ -7,7 +7,8 @@
 🚅: &nbsp; I currently work for the OneLinkJS website localization technology platform as Solution Engineer (2022 - working in progress)  <br/>
 
 🥅 &nbsp; 2022 Goal: Gain work experience as a developer<br/>
-:drum: &nbsp; I recently completed a software engineering Bootcamp at General Assembly (2021)<br/>
+:drum: &nbsp; I completed a software engineering Bootcamp at General Assembly (2021)<br/>
+:drum: &nbsp; I completed a degree in Information Technology at BHCC (2020)<br/>
 
 ### Connect with me:
 
