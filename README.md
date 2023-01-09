@@ -4,7 +4,7 @@
 [![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
 
 🥅 &nbsp; 2023 Goal: Gain MORE work experience as a developer<br/>
-:round_pushpin: &nbsp; Currently work for the OneLinkJS website localization technology platform as Solution Engineer (2022 - working in progress)  <br/>
+:round_pushpin: &nbsp; Currently work for the OneLinkJS website localization technology platform as QA Automation Engineer (2022 - working in progress)  <br/>
 :round_pushpin: &nbsp; Collaborating as a Frontend Developer at Code for Boston (2022 - working in progress)  <br/>
 
 🥅 &nbsp; 2022 Goal: Gain work experience as a developer<br/>
