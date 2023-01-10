@@ -42,7 +42,7 @@
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagobardini&theme=buefy&show_icons=true&hide_border=true" alt="thiagobardini's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobardini&hide=html&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagobardini&hide=issues,contribs&theme=buefy&show_icons=true&hide_border=true" alt="thiagobardini's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobardini&hide=html,plsql&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- <details> -->
