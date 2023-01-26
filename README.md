@@ -7,6 +7,7 @@
 
 - Currently working as a QA Automation Engineer at TransPerfect (2022 - ongoing)
 - Collaborating as a Frontend Developer at Code for Boston (2022 - ongoing)
+
 🚀 2022 Goal: Launch my career as a developer
 
 - Successfully completed a software engineering Bootcamp at General Assembly (2021)
