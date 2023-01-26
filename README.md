@@ -3,13 +3,18 @@
 [![Website](https://img.shields.io/badge/thiagobardini.com-UP-brightgreen)](https://thiagobardini.com/)
 [![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
 
-🥅 &nbsp; 2023 Goal: Gain MORE work experience as a developer<br/>
-:round_pushpin: &nbsp; Currently work for TransPerfect as QA Automation Engineer (2022 - working in progress)  <br/>
-:round_pushpin: &nbsp; Collaborating as a Frontend Developer at Code for Boston (2022 - working in progress)  <br/>
+🚀 2023 Goal: Expand my skills and gain more work experience as a developer
 
-🥅 &nbsp; 2022 Goal: Gain work experience as a developer<br/>
-:drum: &nbsp; I completed a software engineering Bootcamp at General Assembly (2021)<br/>
-:drum: &nbsp; I completed a degree in Information Technology at BHCC (2020)<br/>
+- Currently working as a QA Automation Engineer at TransPerfect (2022 - ongoing)
+- Collaborating as a Frontend Developer at Code for Boston (2022 - ongoing)
+🚀 2022 Goal: Launch my career as a developer
+
+- Successfully completed a software engineering Bootcamp at General Assembly (2021)
+- Earned a degree in Information Technology from BHCC (2020)
+- Constantly seeking new opportunities to learn and grow as a developer.
+
+
+<br/>
 
 ### Connect with me:
 
