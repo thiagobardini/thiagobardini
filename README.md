@@ -5,14 +5,12 @@
 
 🚀 2023 Goal: Expand my skills and gain more work experience as a developer
 
-- Currently working as a QA Automation Engineer at TransPerfect (2022 - ongoing)
+- Currently working as a Frontend Developer & QA Automation Engineer at TransPerfect (2022 - ongoing)
 - Collaborating as a Frontend Developer at Code for Boston (2022 - ongoing)
-
-🚀 2022 Goal: Launch my career as a developer
-
 - Successfully completed a software engineering Bootcamp at General Assembly (2021)
 - Earned a degree in Information Technology from BHCC (2020)
-- Constantly seeking new opportunities to learn and grow as a developer.
+
+Constantly seeking new opportunities to learn and grow as a developer.
 
 
 <br/>
