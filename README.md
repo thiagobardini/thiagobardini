@@ -7,7 +7,7 @@
 - Focused on advancing in Software Development and testing, fostering integrity, intelligence, and innovation.
 
 🌟 **Recent Achievements:**
-- **2023:** Enhanced end-to-end testing skills. Frontend Developer for [Boston Heat Pump](https://www.bostonhpa.org/).
+- **2023:** Enhanced end-to-end testing skills at TransPerfect. Completed the Boston Heat Pump project at Code for Boston.
 - **2022:** Frontend Developer & QA Automation Engineer at TransPerfect; Frontend work at Code for Boston.
 - **2021:** Completed software engineering Bootcamp at General Assembly.
 - **2020:** Obtained IT degree from BHCC.
