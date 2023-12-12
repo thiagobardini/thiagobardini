@@ -1,29 +1,20 @@
 ### Hi there, I'm Thiago &nbsp;&nbsp;👋
 
-[![Website](https://img.shields.io/badge/thiagobardini.com-UP-brightgreen)](https://thiagobardini.com/)
+[![Website](https://img.shields.io/badge/tbardini.com-UP-brightgreen)](https://tbardini.com/)
 [![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
 
-🚀 2023 Goal: Expand my skills and gain more work experience as a developer
+🚀 **2024 Career Objective:**
+- Focused on advancing in Software Development and testing, fostering integrity, intelligence, and innovation.
 
-- Currently working as a Frontend Developer & QA Automation Engineer at TransPerfect (2022 - ongoing)
-- Collaborating as a Frontend Developer at Code for Boston (2022 - ongoing)
-- Successfully completed a software engineering Bootcamp at General Assembly (2021)
-- Earned a degree in Information Technology from BHCC (2020)
+🌟 **Recent Achievements:**
+- **2023:** Enhanced end-to-end testing skills. Frontend Developer for [Boston Heat Pump](https://www.bostonhpa.org/).
+- **2022:** Frontend Developer & QA Automation Engineer at TransPerfect; Frontend work at Code for Boston.
+- **2021:** Completed software engineering Bootcamp at General Assembly.
+- **2020:** Obtained IT degree from BHCC.
 
-Constantly seeking new opportunities to learn and grow as a developer.
+Eager to embrace new learning opportunities and contribute to innovative tech projects.
 
-
-<br/>
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
+#### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
