@@ -33,7 +33,6 @@ Eager to embrace new learning opportunities and contribute to innovative tech pr
 [<img align="left" alt="Playwright" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png" />][website] 
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />][website]
 [<img align="left" alt="Material-UI" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />][website]
-[<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />][website]
 [<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />][website]
 [<img align="left" alt="JIRA" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" />][website]
 [<img align="left" alt="Bitbucket" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" />][website]
