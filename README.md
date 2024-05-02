@@ -1,7 +1,13 @@
-### Hi there, I'm Thiago &nbsp;&nbsp;👋
+<p align="center">
+    <a href="https://www.tbardini.com/">
+        <img src="https://www.tbardini.com/assets/TBardini-dot-dark-MIMyJ2zW.png" width="200" alt="Demo Report Logo">
+    </a>
+</p>
 
+### Hi there, I'm Thiago &nbsp;&nbsp;👋
 [![Website](https://img.shields.io/badge/tbardini.com-UP-brightgreen)](https://tbardini.com/)
 [![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
+
 
 🚀 **2024 Career Objective:**
 - Focused on advancing in Software Development and testing, fostering integrity, intelligence, and innovation.
