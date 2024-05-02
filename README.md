@@ -1,10 +1,12 @@
-<p align="center">
+<h2>
+    Hi there, I'm 
     <a href="https://www.tbardini.com/">
-        <img src="https://www.tbardini.com/assets/TBardini-dot-dark-MIMyJ2zW.png" width="200" alt="Demo Report Logo">
+        <img src="https://www.tbardini.com/assets/TBardini-dot-dark-MIMyJ2zW.png" width="100" alt="tbardini Logo">
     </a>
-</p>
+     &nbsp;&nbsp;👋
+</h2>
 
-### Hi there, I'm Thiago &nbsp;&nbsp;👋
+
 [![Website](https://img.shields.io/badge/tbardini.com-UP-brightgreen)](https://tbardini.com/)
 [![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
 
