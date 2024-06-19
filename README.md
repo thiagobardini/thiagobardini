@@ -1,7 +1,7 @@
 <h2>
     Hi there, I'm 
     <a href="https://www.tbardini.com/">
-        <img src="https://www.tbardini.com/assets/TBardini-dot-dark-MIMyJ2zW.png" width="100" alt="tbardini Logo">
+        <img src="https://raw.githubusercontent.com/thiagobardini/tbardini/main/src/Assets/images/TBardini-dot-gold.png" width="150" alt="tbardini Logo">
     </a>
      &nbsp;&nbsp;👋
 </h2>
