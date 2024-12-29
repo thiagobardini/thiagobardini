@@ -11,10 +11,11 @@
 [![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
 
 
-🚀 **2024 Career Objective:**
-- Focused on advancing in Software Development and testing, fostering integrity, intelligence, and innovation.
+🚀 **2025 Career Objective:**
+- Focused on advancing in Software Development and testing, continuing to support Code for Boston, and seeking new job opportunities.
 
 🌟 **Recent Achievements:**
+- **2024:** Stayed up-to-date with AI and emerging technologies, continuing to contribute to Code for Boston projects.
 - **2023:** Enhanced end-to-end testing skills at TransPerfect. Completed the Boston Heat Pump project at Code for Boston.
 - **2022:** Frontend Developer & QA Automation Engineer at TransPerfect; Frontend work at Code for Boston.
 - **2021:** Completed software engineering Bootcamp at General Assembly.
