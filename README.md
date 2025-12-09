@@ -42,8 +42,16 @@
 
 ## 📈 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagobardini&hide=issues,contribs&theme=buefy&show_icons=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobardini&hide=html,plsql&layout=compact&theme=buefy&hide_border=true) | ![GIF](https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif) |
-| --- | --- | --- |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagobardini&theme=github-light&hide_border=true&area=true" alt="Activity Graph" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="200" alt="Monkey typing" />
+    </td>
+  </tr>
+</table>
 
 
 <!-- <details> -->
