@@ -6,7 +6,8 @@
 </h2>
 
 [![Website](https://img.shields.io/badge/tbardini.com-UP-brightgreen)](https://tbardini.com/)
-[![Linkedin Follow](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
+[![LinkedIn](https://img.shields.io/badge/Thiago%20Bardini-LinkedIn-blue)](https://www.linkedin.com/in/thiagobardini/)
+![PetQuantic Status](https://healthchecks.io/b/3/78cd90ae-6182-4ef3-b843-7b67f8168627.svg)
 
 ## 🎯 2026 Focus:
 - 𝙾𝚙𝚎𝚗 𝚝𝚘 𝚏𝚞𝚕𝚕-𝚝𝚒𝚖𝚎 𝚛𝚘𝚕𝚎𝚜 — 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 / 𝙰𝙸 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛
