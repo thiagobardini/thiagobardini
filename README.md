@@ -45,9 +45,6 @@
 [<img align="left" alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 <br />
 
-## 🚀 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙷𝚎𝚊𝚕𝚝𝚑
-![PetQuantic Status](https://healthchecks.io/b/3/78cd90ae-6182-4ef3-b843-7b67f8168627.svg)
-
 ## 📈 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <table>
