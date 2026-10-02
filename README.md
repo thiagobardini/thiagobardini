@@ -50,10 +50,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagobardini&theme=github-light&hide_border=true&area=true" alt="Activity Graph" />
-    </td>
-    <td>
+      
       <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="200" alt="Monkey typing" />
+    
     </td>
   </tr>
 </table>
