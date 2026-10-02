@@ -49,10 +49,8 @@
 
 <table>
   <tr>
-    <td>
-      
+    <td>      
       <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif" width="200" alt="Monkey typing" />
-    
     </td>
   </tr>
 </table>
